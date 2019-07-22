@@ -134,10 +134,10 @@ Donate
 
 If this library helped you out feel free to donate.
 
-- ETH: 0xD7a7fDdCfA687073d7cC93E9E51829a727f9fE70
-- LTC: LPC5vw9ajR1YndE1hYVeo3kJ9LdHjcRCUZ
-- NEO: AVJB4ZgN7VgSUtArCt94y7ZYT6d5NDfpBo
-- BTC: 1Dknp6L6oRZrHDECRedihPzx2sSfmvEBys
+- ETH: 0x0a5EFE47E01748B0A49e14C4150a4E44eB32798f
+- LTC: 3869Ap4CaipV598Hrd2gomWBp6V9pv18LS
+- BCH: 3KnvDG8McvtFhnQmwfADFApmPpR6XUDV4j
+- BTC: 3BZKFM1oYqUr6NfQWtNzqYXc5gzB9pqfM1
 
 Other Exchanges
 ---------------
