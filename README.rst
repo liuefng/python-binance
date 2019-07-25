@@ -135,9 +135,9 @@ Donate
 If this library helped you out feel free to donate.
 
 - ETH: 0x0a5EFE47E01748B0A49e14C4150a4E44eB32798f
-- LTC: 3869Ap4CaipV598Hrd2gomWBp6V9pv18LS
+- LTC: LhtpZ11WP5AMS4ZJYL5W6jLeFy5mgqhCbq
 - BCH: 3KnvDG8McvtFhnQmwfADFApmPpR6XUDV4j
-- BTC: 3BZKFM1oYqUr6NfQWtNzqYXc5gzB9pqfM1
+- BTC: 1FSVCvAobDBRFjS2C3S42XjXFMqBs4EBBp
 
 Other Exchanges
 ---------------
